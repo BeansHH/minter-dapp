@@ -318,14 +318,14 @@ section {
 
 .splide {
   position: absolute;
-  top: 90px;
+  top: 3000px;
   left: 5rem;
   z-index: -1;
 }
 
 .splide__slide {
   border: var(--accent-color) solid;
-  border-width: 3000px 3000px;
+  border-width: 5px 10px;
 }
 
 .splide__slide img {
